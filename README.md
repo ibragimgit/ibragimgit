@@ -4,7 +4,7 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&fontSize=120&pause=1000&color=41B883&center=true&vCenter=true&width=1920&height=100&lines=Погружаюсь+в+Frontend;Люблю+Vue,+Vite+и+TypeScript;Ищу+первую+работу+или+стажировку;Открыт+для+коллабораций)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=1000&color=41B883&center=true&vCenter=true&width=1920&height=100&lines=Погружаюсь+в+Frontend;Люблю+Vue,+Vite+и+TypeScript;Ищу+первую+работу+или+стажировку;Открыт+для+коллабораций)](https://git.io/typing-svg)
 
 
 
