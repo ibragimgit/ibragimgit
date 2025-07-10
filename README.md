@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41B883&center=true&vCenter=true&width=440&lines=Погружаюсь+в+Frontend;Люблю+Vue,+Vite+и+TypeScript;Ищу+первую+работу+или+стажировку;Открыт+для+коллабораций" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=800&color=1E90FF&center=true&vCenter=true&width=460&lines=Frontend+—+мой+путь;Vue.js+и+TypeScript+в+сердце;Ищу+стажировку+мечты;Готов+к+open-source+проектам" alt="Typing SVG" />
 </div>
 
 ---
