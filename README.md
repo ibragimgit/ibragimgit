@@ -4,9 +4,7 @@
 </p>
 
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41B883&center=true&vCenter=true&width=440&lines=Погружаюсь+в+Frontend;Люблю+Vue,+Vite+и+TypeScript;Ищу+первую+работу+или+стажировку;Открыт+для+коллабораций" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&fontSize=48&pause=1000&color=41B883&center=true&vCenter=true&width=1920&lines=Погружаюсь+в+Frontend;Люблю+Vue,+Vite+и+TypeScript;Ищу+первую+работу+или+стажировку;Открыт+для+коллабораций)](https://git.io/typing-svg)
 
 
 
