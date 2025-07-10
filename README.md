@@ -3,10 +3,7 @@
   🚀 Frontend разработчик на старте пути | 🍃 Vue.js | 🧪 TypeScript | 🎨 UI/UX энтузиаст
 </p>
 
-<div align="center">
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41B883&center=true&vCenter=true&width=440&lines=Погружаюсь+в+Frontend;Люблю+Vue,+Vite+и+TypeScript;Ищу+первую+работу+или+стажировку;Открыт+для+коллабораций)
-</div>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41B883&center=true&vCenter=true&width=440&lines=Погружаюсь+в+Frontend;Люблю+Vue,+Vite+и+TypeScript;Ищу+первую+работу+или+стажировку;Открыт+для+коллабораций)](https://git.io/typing-svg)
 
 ---
 
